@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jcvincentliu/jcvincentliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! You are visiting Juncheng (Vincent) Liu's GitHub page. I am currently a first year MS-Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago. Prior to UChic, I received my Bachelor's degrees in Sociology of Law, Criminology, and Deviance and Statistics with minors in Political Science and DirecTrack to Teaching from the University of Minneosta Twin Cities. Originally from Beijing, China, Midwest is my second home and the place the I cherish the most. From Minneapolis to Chicago, I have been experienceing and learning the commonalities and differences of local politics, societies, and cultures. I grew up and maturalized on the bridge across the Missssippi River, the beach by Lake Michigan, and the mountain of San Jose. Now the fifth years in the Midwest, I am still trying hard to develop my fondness for the Winter, but all efforts are ending in failures so far. In my leisure time, I love listening to heavy metal, committing to social justice works, and occassionally going for a walk.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal Is Life!!!
--->
