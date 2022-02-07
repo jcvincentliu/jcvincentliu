@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: HE/HIM/HIS
-- ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal Is Life!! ![image](https://user-images.githubusercontent.com/70295316/152846527-3cdcbbc6-ea9d-4f9e-ad39-263ccb1099bb.png)
-
+- ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal Is Life!!!
 -->
