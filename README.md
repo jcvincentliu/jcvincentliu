@@ -1,3 +1,6 @@
+
+![Banner](https://github.com/jcvincentliu/jcvincentliu/blob/main/header.png)
+
 ### Hello, friend! 👋
 
 You are visiting Juncheng (Vincent) Liu's GitHub page. 
