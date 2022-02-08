@@ -14,5 +14,9 @@ ggplot in R and machine learning algorithms
 - 📫 How to reach me: liujcv00048@gmail.com
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal Is Life!!! 
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcvincentliu)](https://github.com/jcvincentliu/github-readme-stats)
  
 
