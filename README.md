@@ -20,6 +20,7 @@ ggplot in R and machine learning algorithms
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcvincentliu)](https://github.com/jcvincentliu/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcvincentliu&langs_count=8)](https://github.com/jcvincentliu/github-readme-stats)
  
 
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcvincentliu&show_icons=true&theme=radical)
