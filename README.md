@@ -3,20 +3,19 @@
 
 ### Hello, friend! 👋
 
-You are visiting Juncheng (Vincent) Liu's GitHub page. 
+Here is Juncheng (Vincent) Liu's GitHub page! 
 
-I am currently a first year MS-Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago. Prior to UChic, I received my Bachelor's degrees in Sociology of Law, Criminology, and Deviance and Statistics with minors in Political Science and DirecTrack to Teaching from the University of Minneosta Twin Cities. Originally from Beijing, China, Midwest is my second home and the place I cherish the most. 
+I am currently a rising second-year MS-Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago. Prior to UChic, I received my Bachelor's degrees in Sociology of law, criminology, and deviance (BS) and Statistics (BA) with minors in Political Science and DirecTrack to Teaching from the University of Minneosta Twin Cities. Originally from Beijing, China, Midwest is my second home and the place I cherish the most. 
 
-From Minneapolis to Chicago, I have been enjoying, experienceing, and learning the commonalities and differences of citywide politics, cultures, and functioning of social institutions. With deep loves, I grew up and maturalized on the bridge across the Missssippi River, the beach by Lake Michigan, and the mountain of San Jose. Now the fifth years in the Midwest, I am still trying hard to develop my fondness for the Winter, but all efforts are ending in failures so far. In my leisure time, I love doing some random data analysis and visualizations, listening to hard rocks and heavy metals, committing to social justice volunteering, and occassionally going for a walk. 
+From Minneapolis to Chicago, I learned about citywide politics, cultures, and functioning of social institutions by being part of the city. With deep loves, I grew up and maturalized on the Washington Bridge that connects two river banks of the Missssippi River, the beach by Lake Michigan, and the mountain of San Jose. Now the Fifth years in Midwest, I am still trying hard to develop my fondness for the Midwest Winter, but all efforts are ending to no avails so far. In my leisure time, I love doing some data analysis and visualizations, listening to hard rocks and heavy metals, committing to social justice volunteering, and occassionally going for a walk when the weather is good. 
 
-- 🔭 I’m currently working on: course data projects and my own blog(stay tuned for both!)
-- 🌱 I’m currently learning: web scraping and data cleaning in Python, SQL, blogdown package in R, etc. 
-- 🤔 I’m looking for: A data analyst/policy analyst summer internship/fellowship position 
-- 💬 Ask me about: criminal justice (esp policing and juvenile delinquency), K12 education, public opinion, and political campaigning, 
-ggplot in R and machine learning algorithms
+- 🔭 I’m currently working on: My policy website and initiatives!! And publishing my second op-ed. (I want to be better writer!!!!!)
+- 🌱 I’m currently learning: R Shiny, Blogdown, Python, Data journalism 
+- 🤔 I’m looking for: A data/policy/research analyst/associate full-time position in think tanks/ city governments/ nonprofits / news company/ survey firms 
+- 💬 Ask me about: data storytelling, criminal justice (esp policing, community safety, and juvenile delinquency), K12 education, public opinion, nlp
 - 📫 How to reach me: liujcv00048@gmail.com
 - 😄 Pronouns: HE/HIM/HIS
-- ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal Is Life!!! 
+- ⚡ Fun fact: I am a metalhead! Metallica's songs are all over my everyday playlist. Metal is my faith!!! 
 
 <br/>
 
