@@ -5,7 +5,7 @@
 
 Here is Juncheng (Vincent) Liu's GitHub page! 
 
-I am currently a second-year Master of Science in Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago. Prior to UChic, I received my Bachelor's degrees in Sociology of law, criminology, and deviance (BS) and Statistics (BA) with minors in Political Science and DirecTrack to Teaching from the University of Minneosta Twin Cities. Originally from Beijing, China, Midwest is my second home. 
+I received my Master of Science degree in Computational Analysis and Public Policy (MSCAPP) from the University of Chicago. Prior to UChicago, I received my Bachelor's degrees in Sociology of law, criminology, and deviance (BS) and Statistics (BA) with minors in Political Science and DirecTrack to Teaching from the University of Minneosta Twin Cities. Originally from Beijing, China, Midwest is my second home. 
 
 From Minneapolis to Chicago, I learned about citywide politics, cultures, and functioning of social institutions by being part of the city. With deep loves, I grew up and maturalized on the Washington Bridge that cross the two sides of the Missssippi River, the beach surrounding Lake Michigan, and the mountains in San Jose. Now the Fifth years in Midwest, I am still trying to develop my fondness for the Midwest Winter, but all efforts are ending to no avails so far. In my leisure time, I love doing some data analysis and visualizations, listening to hard rocks and heavy metals, committing to social justice activism, and going for a walk when the weather is good.  
 
